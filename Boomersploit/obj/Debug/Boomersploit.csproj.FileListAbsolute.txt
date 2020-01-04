@@ -1,0 +1,11 @@
+C:\Users\stitc\source\repos\Boomersploit\Boomersploit\bin\Debug\Boomersploit.exe.config
+C:\Users\stitc\source\repos\Boomersploit\Boomersploit\bin\Debug\Boomersploit.exe
+C:\Users\stitc\source\repos\Boomersploit\Boomersploit\bin\Debug\Boomersploit.pdb
+C:\Users\stitc\source\repos\Boomersploit\Boomersploit\bin\Debug\WeAreDevs_API.dll
+C:\Users\stitc\source\repos\Boomersploit\Boomersploit\obj\Debug\Boomersploit.csprojAssemblyReference.cache
+C:\Users\stitc\source\repos\Boomersploit\Boomersploit\obj\Debug\Boomersploit.Form1.resources
+C:\Users\stitc\source\repos\Boomersploit\Boomersploit\obj\Debug\Boomersploit.Properties.Resources.resources
+C:\Users\stitc\source\repos\Boomersploit\Boomersploit\obj\Debug\Boomersploit.csproj.GenerateResource.cache
+C:\Users\stitc\source\repos\Boomersploit\Boomersploit\obj\Debug\Boomersploit.csproj.CopyComplete
+C:\Users\stitc\source\repos\Boomersploit\Boomersploit\obj\Debug\Boomersploit.exe
+C:\Users\stitc\source\repos\Boomersploit\Boomersploit\obj\Debug\Boomersploit.pdb
